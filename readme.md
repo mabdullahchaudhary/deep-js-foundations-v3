@@ -1,26 +1,27 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Outfit&weight=800&size=45&pause=3000&color=F7DF1E&center=true&vCenter=true&width=800&height=80&lines=Deep+JS+Foundations+v3.;Mastering+Core+JavaScript.;Built+by+%40eazypizycoders." alt="Deep JS Foundations v3" />
+  <img src="https://readme-typing-svg.demolab.com?font=Outfit&weight=800&size=45&pause=3000&color=8A2BE2&center=true&vCenter=true&width=800&height=80&lines=Deep+JS+Foundations+v3.;Mastering+Core+JavaScript.;Built+by+%40eazypizycoders." alt="Deep JS Foundations v3" />
 </div>
 
 <div align="center">
   <a href="https://frontendmasters.com/courses/deep-javascript-v3/">
-    <img src="https://img.shields.io/badge/COURSE-Frontend_Masters-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000000&labelColor=18181B" alt="Frontend Masters" />
+    <img src="https://img.shields.io/badge/COURSE-Frontend_Masters-8A2BE2?style=for-the-badge&logo=javascript&logoColor=ffffff&labelColor=18181B" alt="Frontend Masters" />
   </a>
   &nbsp;&nbsp;
   <a href="https://abdullahchaudhary.com/">
-    <img src="https://img.shields.io/badge/PORTFOLIO-abdullahchaudhary-F7DF1E?style=for-the-badge&logo=react&logoColor=000000&labelColor=18181B" alt="Portfolio" />
+    <img src="https://img.shields.io/badge/PORTFOLIO-abdullahchaudhary-8A2BE2?style=for-the-badge&logo=react&logoColor=ffffff&labelColor=18181B" alt="Portfolio" />
   </a>
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Core_Mechanics-18181B?style=for-the-badge&color=F7DF1E&labelColor=18181B" />
+  <img src="https://img.shields.io/badge/Core_Mechanics-18181B?style=for-the-badge&color=8A2BE2&labelColor=18181B" />
   &nbsp;
-  <img src="https://img.shields.io/badge/Mental_Models-18181B?style=for-the-badge&color=F7DF1E&labelColor=18181B" />
+  <img src="https://img.shields.io/badge/Mental_Models-18181B?style=for-the-badge&color=8A2BE2&labelColor=18181B" />
   &nbsp;
-  <img src="https://img.shields.io/badge/Zero_Comment_Code-18181B?style=for-the-badge&color=F7DF1E&labelColor=18181B" />
+  <img src="https://img.shields.io/badge/Zero_Comment_Code-18181B?style=for-the-badge&color=8A2BE2&labelColor=18181B" />
 </div>
+
 
 
 <br/><br/>
